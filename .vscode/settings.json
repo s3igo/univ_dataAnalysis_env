@@ -12,7 +12,7 @@
     // "r.rpath.windows": "",
 
 
-    
+
     "r.sessionWatcher": true,
     "cSpell.words": [
         "tidyverse",
@@ -20,5 +20,6 @@
         "Rscript",
         "rterm",
         "rmarkdown",
+        "Qiita",
     ],
 }
