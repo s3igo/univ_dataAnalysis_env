@@ -23,7 +23,7 @@
 ```
 を追記  
 ※ *keybindings.json* は *cmd(ctrl)+shift+P* を押して *key* って入力すると出てくる *Preferences: Open Keyboard Shortcuts (JSON)* っていうのを選択すれば開ける  
-5. *./templates* に *report-style.docx* という名前で出力するレポートのテンプレートとなるwordファイルを配置(第3回講義の教材倉庫にあったはず)
+5. 出力するレポートのテンプレートとなるwordファイルを *report-style.docx* という名前で作成し、*./templates/report-style* と置き換え(第3回講義の教材倉庫にあったはず)
 
 ## 使い方
 ### 拡張機能
