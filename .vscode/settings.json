@@ -1,5 +1,13 @@
 {
     "r.sessionWatcher": true,
+    "cSpell.words": [
+        "tidyverse",
+        "Rstudio",
+        "Rscript",
+        "rterm",
+        "rmarkdown",
+    ],
+
 
 
     // windowsの場合はコメントアウトを外す(初期値はあくまで一例)
@@ -8,6 +16,7 @@
 
 
     // 動かない場合はこっちも設定してみた方がいいかも
+    // コード補完を有効化する際は必須
 
     // "r.rpath.mac": "",
     // "r.rpath.linux": "",
