@@ -1,0 +1,19 @@
+---
+title: "データ解析 第0回レポート"
+author: "[YOUR_STUDENT_ID] [YOUR_FULL_NAME]"
+date: "yyy年mm月dd日"
+output:
+    word_document:
+        reference_docx: ../templates/report-style.docx
+    html_notebook: default
+---
+
+## 車の速度と移動距離のデータをdfに代入
+```{r}
+df <- cars
+```
+
+## dfをプロット
+```{r}
+plot(df)
+```

@@ -1,0 +1,3 @@
+df <- cars
+
+plot(df)
