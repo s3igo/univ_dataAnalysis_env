@@ -1,4 +1,18 @@
 {
+    // windowsの場合はコメントアウトを外す(初期値はあくまで一例)
+
+    // "r.rterm.windows": "C:\\Program Files\\R\\R-4.1.3\\bin\\x64\\R.exe"
+
+    
+    // 動かない場合はこっちも設定してみた方がいいかも
+    // コード補完を有効化する際は必須
+    
+    // "r.rpath.mac": "",
+    // "r.rpath.linux": "",
+    // "r.rpath.windows": "",
+
+
+    
     "r.sessionWatcher": true,
     "cSpell.words": [
         "tidyverse",
@@ -7,18 +21,4 @@
         "rterm",
         "rmarkdown",
     ],
-
-
-
-    // windowsの場合はコメントアウトを外す(初期値はあくまで一例)
-
-    // "r.rterm.windows": "C:\\Program Files\\R\\R-4.1.3\\bin\\x64\\R.exe"
-
-
-    // 動かない場合はこっちも設定してみた方がいいかも
-    // コード補完を有効化する際は必須
-
-    // "r.rpath.mac": "",
-    // "r.rpath.linux": "",
-    // "r.rpath.windows": "",
 }
